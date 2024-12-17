@@ -1,0 +1,15 @@
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/bin/Debug/net9.0/IfElse
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/bin/Debug/net9.0/IfElse.deps.json
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/bin/Debug/net9.0/IfElse.runtimeconfig.json
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/bin/Debug/net9.0/IfElse.dll
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/bin/Debug/net9.0/IfElse.pdb
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/IfElse.AssemblyInfoInputs.cache
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/IfElse.AssemblyInfo.cs
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/IfElse.csproj.CoreCompileInputs.cache
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/IfElse.sourcelink.json
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/IfElse.dll
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/refint/IfElse.dll
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/IfElse.pdb
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/IfElse.genruntimeconfig.cache
+/Users/kutayozcan/Desktop/Bootcamp/Week1/IfElse/obj/Debug/net9.0/ref/IfElse.dll
