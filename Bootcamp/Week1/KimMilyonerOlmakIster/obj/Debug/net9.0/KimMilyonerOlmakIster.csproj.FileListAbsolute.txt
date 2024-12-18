@@ -1,0 +1,14 @@
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/bin/Debug/net9.0/KimMilyonerOlmakIster
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/bin/Debug/net9.0/KimMilyonerOlmakIster.deps.json
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/bin/Debug/net9.0/KimMilyonerOlmakIster.runtimeconfig.json
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/bin/Debug/net9.0/KimMilyonerOlmakIster.dll
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/bin/Debug/net9.0/KimMilyonerOlmakIster.pdb
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/obj/Debug/net9.0/KimMilyonerOlmakIster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/obj/Debug/net9.0/KimMilyonerOlmakIster.AssemblyInfoInputs.cache
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/obj/Debug/net9.0/KimMilyonerOlmakIster.AssemblyInfo.cs
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/obj/Debug/net9.0/KimMilyonerOlmakIster.csproj.CoreCompileInputs.cache
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/obj/Debug/net9.0/KimMilyonerOlmakIster.dll
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/obj/Debug/net9.0/refint/KimMilyonerOlmakIster.dll
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/obj/Debug/net9.0/KimMilyonerOlmakIster.pdb
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/obj/Debug/net9.0/KimMilyonerOlmakIster.genruntimeconfig.cache
+/Users/kutayozcan/Desktop/KimMilyonerOlmakIster/obj/Debug/net9.0/ref/KimMilyonerOlmakIster.dll
