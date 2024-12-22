@@ -1,4 +1,4 @@
-# Program.cs Açıklaması
+# Method
 
 ## Proje Hakkında
 Bu proje, C# programlama dilinde yazılmış temel metot örneklerini içermektedir. Proje, farklı metot türlerini ve parametre kullanımını öğretmeyi amaçlamaktadır.
