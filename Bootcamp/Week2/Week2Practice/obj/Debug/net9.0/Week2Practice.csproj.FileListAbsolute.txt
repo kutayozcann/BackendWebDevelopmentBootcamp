@@ -1,0 +1,14 @@
+/Users/kutayozcan/Desktop/Week2Practice/bin/Debug/net9.0/Week2Practice
+/Users/kutayozcan/Desktop/Week2Practice/bin/Debug/net9.0/Week2Practice.deps.json
+/Users/kutayozcan/Desktop/Week2Practice/bin/Debug/net9.0/Week2Practice.runtimeconfig.json
+/Users/kutayozcan/Desktop/Week2Practice/bin/Debug/net9.0/Week2Practice.dll
+/Users/kutayozcan/Desktop/Week2Practice/bin/Debug/net9.0/Week2Practice.pdb
+/Users/kutayozcan/Desktop/Week2Practice/obj/Debug/net9.0/Week2Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutayozcan/Desktop/Week2Practice/obj/Debug/net9.0/Week2Practice.AssemblyInfoInputs.cache
+/Users/kutayozcan/Desktop/Week2Practice/obj/Debug/net9.0/Week2Practice.AssemblyInfo.cs
+/Users/kutayozcan/Desktop/Week2Practice/obj/Debug/net9.0/Week2Practice.csproj.CoreCompileInputs.cache
+/Users/kutayozcan/Desktop/Week2Practice/obj/Debug/net9.0/Week2Practice.dll
+/Users/kutayozcan/Desktop/Week2Practice/obj/Debug/net9.0/refint/Week2Practice.dll
+/Users/kutayozcan/Desktop/Week2Practice/obj/Debug/net9.0/Week2Practice.pdb
+/Users/kutayozcan/Desktop/Week2Practice/obj/Debug/net9.0/Week2Practice.genruntimeconfig.cache
+/Users/kutayozcan/Desktop/Week2Practice/obj/Debug/net9.0/ref/Week2Practice.dll
