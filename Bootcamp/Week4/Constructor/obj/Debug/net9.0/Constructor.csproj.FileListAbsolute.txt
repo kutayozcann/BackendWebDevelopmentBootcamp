@@ -1,0 +1,14 @@
+/Users/kutayozcan/RiderProjects/Constructor/bin/Debug/net9.0/Constructor
+/Users/kutayozcan/RiderProjects/Constructor/bin/Debug/net9.0/Constructor.deps.json
+/Users/kutayozcan/RiderProjects/Constructor/bin/Debug/net9.0/Constructor.runtimeconfig.json
+/Users/kutayozcan/RiderProjects/Constructor/bin/Debug/net9.0/Constructor.dll
+/Users/kutayozcan/RiderProjects/Constructor/bin/Debug/net9.0/Constructor.pdb
+/Users/kutayozcan/RiderProjects/Constructor/obj/Debug/net9.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutayozcan/RiderProjects/Constructor/obj/Debug/net9.0/Constructor.AssemblyInfoInputs.cache
+/Users/kutayozcan/RiderProjects/Constructor/obj/Debug/net9.0/Constructor.AssemblyInfo.cs
+/Users/kutayozcan/RiderProjects/Constructor/obj/Debug/net9.0/Constructor.csproj.CoreCompileInputs.cache
+/Users/kutayozcan/RiderProjects/Constructor/obj/Debug/net9.0/Constructor.dll
+/Users/kutayozcan/RiderProjects/Constructor/obj/Debug/net9.0/refint/Constructor.dll
+/Users/kutayozcan/RiderProjects/Constructor/obj/Debug/net9.0/Constructor.pdb
+/Users/kutayozcan/RiderProjects/Constructor/obj/Debug/net9.0/Constructor.genruntimeconfig.cache
+/Users/kutayozcan/RiderProjects/Constructor/obj/Debug/net9.0/ref/Constructor.dll
