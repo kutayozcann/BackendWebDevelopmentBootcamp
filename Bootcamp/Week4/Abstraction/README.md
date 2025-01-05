@@ -1,19 +1,19 @@
-# Abstraction Örneği
+# Abstraction Example
 
-Bu proje, C# programlama dilinde **Soyutlama (Abstraction)** kavramını göstermektedir. Proje, çalışanların görevlerini tanımlayan bir soyut sınıf ve ondan türetilen sınıfları içerir.
+This project demonstrates the **Abstraction** concept in C# programming. It includes an abstract class defining tasks for employees and derived classes implementing specific roles.
 
-## Özellikler
-- **Soyut Sınıf (Employee):**
-  - Ortak özellikler (`Name`, `Surname`, `Department`) içerir.
-  - `Task()` adında soyut bir metod tanımlar.
-- **Alt Sınıflar:**
-  - `ProjectManager`: Proje yöneticisi görevlerini tanımlar.
-  - `SoftwareDeveloper`: Yazılım geliştirici görevlerini tanımlar.
-  - `SalesManager`: Satış yöneticisi görevlerini tanımlar.
+## Features
+- **Abstract Class (Employee):**
+  - Contains common properties (`Name`, `Surname`, `Department`).
+  - Defines an abstract method `Task()`.
+- **Derived Classes:**
+  - `ProjectManager`: Defines tasks for a project manager.
+  - `SoftwareDeveloper`: Defines tasks for a software developer.
+  - `SalesManager`: Defines tasks for a sales manager.
 
-## Kullanım
+## Usage
 
-### Örnek Kod:
+### Example Code:
 ```csharp
 Employee pManager = new ProjectManager()
 {
@@ -24,7 +24,7 @@ Employee pManager = new ProjectManager()
 pManager.Task();
 ```
 
-### Beklenen Çıktı:
+### Expected Output:
 ```
 Kutay Özcan: Working as Project Manager at IT
 ```
