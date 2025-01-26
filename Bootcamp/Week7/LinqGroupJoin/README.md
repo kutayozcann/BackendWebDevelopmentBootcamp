@@ -19,4 +19,3 @@ Class: Türkçe
     Student: Ahmet
 Class: Kimya
     Student: Fatma
-
