@@ -1,4 +1,4 @@
-# ASP.NET MVC Practice Project
+# Basic MVC 
 
 This is a simple ASP.NET MVC practice project to demonstrate how to work with models, views, and controllers. The project includes two views: one for displaying customer details and another for displaying customer details along with their orders.
 
