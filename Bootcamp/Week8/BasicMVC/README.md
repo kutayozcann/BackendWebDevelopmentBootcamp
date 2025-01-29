@@ -16,7 +16,7 @@ The project is organized as follows:
 
 - **Views**:
   - `Customer/Index.cshtml`: Displays customer details using the `CustomerViewModel`.
-  - `Customer/Orders.cshtml`: Displays customer details and their orders using the `CustomerOrderViewModel`.
+  - `Customer/Index.cshtml`: Displays customer details and their orders using the `CustomerOrderViewModel`.
 
 - **Controllers**:
   - `CustomerController`: Handles requests for customer-related views.
@@ -30,7 +30,7 @@ This view displays the details of a customer, including their ID, first name, la
 
 **Model Used**: `CustomerViewModel`
 
-### 2. Customer Orders View (`Orders.cshtml`)
+### 2. Customer Orders View (`Index.cshtml`)
 This view displays the details of a customer along with a list of their orders.
 
 **Model Used**: `CustomerOrderViewModel`
